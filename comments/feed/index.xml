@@ -11,7 +11,7 @@
 	<atom:link href="/comments/feed" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Pengiriman Road Barrier Terjangkau</description>
-	<lastBuildDate>Tue, 18 Oct 2022 03:25:49 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 18 Oct 2022 07:46:23 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
@@ -20,4 +20,4 @@
 </channel>
 </rss>
 
-<!-- plugin=object-cache-pro client=phpredis metric#hits=1306 metric#misses=10 metric#hit-ratio=99.2 metric#bytes=300068 metric#prefetches=0 metric#store-reads=27 metric#store-writes=2 metric#store-hits=20 metric#store-misses=7 metric#sql-queries=8 metric#ms-total=466.56 metric#ms-cache=3.83 metric#ms-cache-median=0.09 metric#ms-cache-ratio=0.8 -->
+<!-- plugin=object-cache-pro client=phpredis metric#hits=1306 metric#misses=10 metric#hit-ratio=99.2 metric#bytes=305124 metric#prefetches=0 metric#store-reads=27 metric#store-writes=2 metric#store-hits=20 metric#store-misses=7 metric#sql-queries=8 metric#ms-total=430.89 metric#ms-cache=5.82 metric#ms-cache-median=0.08 metric#ms-cache-ratio=1.4 -->
